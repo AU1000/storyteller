@@ -1,0 +1,8 @@
+Kaggle Model Link
+https://www.kaggle.com/models/ayushupadhyay10/storyteller
+
+Kaggle Dataset Link
+https://www.kaggle.com/datasets/edenbd/children-stories-text-corpus
+
+OneDrive pth file Direct like
+https://iiitbac-my.sharepoint.com/:u:/g/personal/deepansh_pandey_iiitb_ac_in/EQkPjvCBai1IiQeWuO_A4-kBmbNIkWcEDfWFjtDs-yzbaA?e=QO45pB
